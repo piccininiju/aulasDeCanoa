@@ -39,16 +39,15 @@ O projeto foi estruturado de forma a demonstrar o uso prático dos principais pi
 ---
 
 ## ⚙️ Funcionalidades Implementadas
-
-✅ Cadastro de planos, alunos, instrutores e canoas
-✅ Agendamento e check-in de alunos nas aulas
-✅ Controle de vagas e fila de espera
-✅ Cancelamentos com e sem débito de aula
-✅ Registro de “no-show” e cancelamentos tardios
-✅ Finalização de aulas com atualização automática de saldo
-✅ Renovação mensal de aulas
-✅ Geração de relatórios completos
-✅ Salvamento e carregamento de dados (persistência)
+- Cadastro de planos, alunos, instrutores e canoas
+- Agendamento e check-in de alunos nas aulas
+- Controle de vagas e fila de espera
+- Cancelamentos com e sem débito de aula
+- Registro de “no-show” e cancelamentos tardios
+- Finalização de aulas com atualização automática de saldo
+- Renovação mensal de aulas
+- Geração de relatórios completos
+- Salvamento e carregamento de dados (persistência)
 ---
 
 ## 💻 Tecnologias Utilizadas
