@@ -78,4 +78,5 @@ O método main executa um cenário completo de testes, simulando:
 ## 👩‍💻 Autora
 
 **Juliana Piccinini**  
-Projeto desenvolvido como parte da disciplina de **Programação Orientada a Objetos**.
+Projeto desenvolvido como parte da disciplina de **Programação Orientada a Objetos**.  
+**2025.2**
